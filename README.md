@@ -5,6 +5,8 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/tsourov211-eng/tsourov211-eng/main/assets/devops-banner.svg" alt="Tanvir Ahammed Sourov — DevOps and Cloud Engineering" width="100%" />
+
 # Hi, I'm Tanvir Ahammed Sourov 👋
 
 ### Aspiring DevOps Engineer | Cloud & Automation | Web Development
