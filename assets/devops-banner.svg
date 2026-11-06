@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Tanvir Ahammed Sourov — DevOps and Cloud Engineering</title>
+<desc id="desc">A dark navy banner with blue gradients and a build, automate, deploy cloud infrastructure motif.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0D1117"/><stop offset="1" stop-color="#101F35"/></linearGradient>
+  <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38BDF8"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#152B46"/><stop offset="1" stop-color="#0D1726"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+<path d="M0 244H1200" stroke="#243B56" stroke-width="1"/>
+<path d="M0 0H1200V8H0Z" fill="url(#blue)"/>
+<g opacity=".18" stroke="#38BDF8" fill="none"><path d="M710 0L900 300M820 0L1010 300M930 0L1120 300M1040 0L1230 300"/><circle cx="1010" cy="140" r="112"/><circle cx="1010" cy="140" r="78"/></g>
+<text x="66" y="91" fill="#8B949E" font-family="Arial,Helvetica,sans-serif" font-size="18" letter-spacing="4">CLOUD • AUTOMATION • RELIABILITY</text>
+<text x="64" y="151" fill="#F0F6FC" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="700">BUILD. AUTOMATE. DEPLOY.</text>
+<text x="67" y="191" fill="#B8C7D9" font-family="Arial,Helvetica,sans-serif" font-size="21">Modern applications, cloud infrastructure, and continuous delivery.</text>
+<g transform="translate(770 56)">
+  <rect x="0" y="114" width="345" height="88" rx="14" fill="#0B1421" stroke="#2C527B"/>
+  <path d="M28 114L170 37L316 114" fill="none" stroke="url(#blue)" stroke-width="3" filter="url(#glow)"/>
+  <g transform="translate(22 80)">
+    <rect width="82" height="76" rx="12" fill="url(#panel)" stroke="#38BDF8" stroke-width="2"/>
+    <path d="M19 29L41 17L63 29V53L41 65L19 53Z" fill="none" stroke="#38BDF8" stroke-width="3"/>
+    <path d="M19 29L41 41L63 29M41 41V65" fill="none" stroke="#38BDF8" stroke-width="2"/>
+    <text x="41" y="94" text-anchor="middle" fill="#C9D8E8" font-family="Arial" font-size="12">BUILD</text>
+  </g>
+  <g transform="translate(132 55)">
+    <rect width="82" height="101" rx="12" fill="url(#panel)" stroke="#60A5FA" stroke-width="2"/>
+    <path d="M18 50C18 35 31 28 41 37C51 28 64 35 64 50C64 64 52 69 41 69C29 69 18 64 18 50Z" fill="none" stroke="#60A5FA" stroke-width="3"/>
+    <path d="M28 51L38 61L56 42" fill="none" stroke="#60A5FA" stroke-width="3"/>
+    <text x="41" y="119" text-anchor="middle" fill="#C9D8E8" font-family="Arial" font-size="12">AUTOMATE</text>
+  </g>
+  <g transform="translate(242 80)">
+    <rect width="82" height="76" rx="12" fill="url(#panel)" stroke="#38BDF8" stroke-width="2"/>
+    <path d="M20 45H62M41 25V65M20 45L41 25L62 45" fill="none" stroke="#38BDF8" stroke-width="3"/>
+    <text x="41" y="94" text-anchor="middle" fill="#C9D8E8" font-family="Arial" font-size="12">DEPLOY</text>
+  </g>
+  <path d="M105 119H130M215 119H240" stroke="#38BDF8" stroke-width="3" stroke-linecap="round" filter="url(#glow)"/>
+</g>
+<text x="67" y="265" fill="#38BDF8" font-family="Arial,Helvetica,sans-serif" font-size="14" letter-spacing="2">TANVIR AHAMMED SOUROV</text>
+<text x="1130" y="265" text-anchor="end" fill="#8B949E" font-family="Arial,Helvetica,sans-serif" font-size="14">DEVOPS ENGINEERING</text>
+</svg>
